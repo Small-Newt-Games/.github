@@ -1,6 +1,6 @@
 ## Hi there, Welcome to Small Newt Games! 👋
 
-### About Us:
+### About Us
 Small Newt Games is a software development company from Australia. You can check out our website at https://smallnewt.com
 
 ### Contact
